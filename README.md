@@ -3,6 +3,10 @@
 [![Model: Llama-3.2-3B](https://img.shields.io/badge/Model-Llama--3.2--3B-blue)](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)
 [![Library: Unsloth](https://img.shields.io/badge/Library-Unsloth-orange)](https://github.com/unslothai/unsloth)
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-red)](https://pytorch.org/)
+[![Open in Colab](https://colab.research.google.com/drive/14SF_bVJB1SktFnPOdK8AJKPN-dQwGTK-?usp=sharing)
+
+## 🚀 Quick Start with Google Colab
+Want to try CounselorLlama without local setup? Click the **"Open in Colab"** badge above to run the model directly in your browser using Google Colab's free GPU. This notebook provides a complete interactive environment for inference, fine-tuning, and experimentation with the model. No installation required—just authenticate with your Google account and start exploring!
 
 ## 📌 Project Overview
 CounselorLlama is a specialized **Small Language Model (SLM)** designed for mental health supportive dialogue. While general-purpose LLMs provide direct answers, this model is fine-tuned to follow a strict **"Proverbial Counseling"** architecture. 
